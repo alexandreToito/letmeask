@@ -1,6 +1,6 @@
 # LETMEASK
 
-### Description
+## Description
 
 This project was developed following the instructions of the course given by Rocketseat in their NLW #5.
 
