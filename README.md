@@ -6,7 +6,7 @@ This project was developed following the instructions of the course given by Roc
 
 The application consists of a CRA using Typescript, SCSS and Firebase.
 
-### Attention
+## Attention
 
 Create an account at https://console.firebase.google.com/ to follow up with the required envs
 
