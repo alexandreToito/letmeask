@@ -4,7 +4,7 @@
 
 This project was developed following the instructions of the course given by Rocketseat in their NLW #5.
 
-The application consists of a CRA using Typescript, SCSS and Firebase.
+The application consists of a CRA using Typescript, SCSS and Firebase with the idea of a question and answer platform for interaction systems such as youtube streams, twitch, etc.
 
 ## Attention
 
