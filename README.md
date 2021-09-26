@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# LETMEASK
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Description
+
+This project was developed following the instructions of the course given by Rocketseat in their NLW #5.
+
+The application consists of a CRA using Typescript, SCSS and Firebase.
+
+### Attention
+
+Create an account at https://console.firebase.google.com/ to follow up with the required envs
 
 ## Available Scripts
 
